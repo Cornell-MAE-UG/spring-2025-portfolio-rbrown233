@@ -17,7 +17,7 @@ I performed new calculations, and acknowledging the low efficiency, increased th
 ![Photo of Gearbox]({{ "/assets/images/metal.png" | relative_url }}){: .inline-image-l}
 Design:
 
-I succesfully designed a cycloidal gearbox that only requires one CNC part (the case), by making use of a lot of laser cut sheet metal parts that are stacked and arranged in the ways nessecary. This involves a new idea of how to create the eccentric shaft by stacking aluminum plates, which previously could only be machined on a CNC or track lathe. I also manufactued one part of the input shaft myself on a Lathe and Mill. 
+I succesfully designed a cycloidal gearbox that only requires one CNC part (the case, which is shown 3d printed), by making use of a lot of laser cut sheet metal parts that are stacked and arranged in the ways nessecary. This involves a new idea of how to create the eccentric shaft by stacking aluminum plates, which previously could only be machined on a CNC or track lathe. I also manufactued one part of the input shaft myself on a Lathe and Mill. 
 
 Manufacturing and Testing:
 

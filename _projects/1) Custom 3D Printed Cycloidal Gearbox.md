@@ -19,6 +19,8 @@ X = (75*cos(t))-(11.25*cos(t+atan(sin((1-75)*t)/((75/(5.625*75))-cos((1-75)*t)))
 Y = (-75*sin(t))+(11.25*sin(t+atan(sin((1-75)*t)/((75/(5.625*75))-cos((1-75)*t)))))+(5.625*sin(75*t))
 
 ![Photo of CAD]({{ "/assets/images/Screenshot 2025-05-13 212023.png" | relative_url }}){: .inline-image-l}
+![Photo of CAD]({{ "/assets/images/ansys.png" | relative_url }}){: .inline-image-l}
+
 Design:
 
 For this design, I mostly stuck to the most basic version of a cycloidal, making all part
