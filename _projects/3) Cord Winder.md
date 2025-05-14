@@ -13,4 +13,4 @@ MAE 2250 is a class in which students learn the principles of design, and it inc
 
 ![Photo of Gearbox]({{ "/assets/images/winder.png" | relative_url }}){: .inline-image-l}
 
-The product was overall a success, as it was able to effectively wind and unwind cords as intended. That being said, the initial prototype had a lot of problems. Seeing problems such as flimsy connectors and parts sticking during rotation, I pioneered significant changes such as adding arcs for slotting the two housing pieces together as well as adding tolerance to the lower gear mechanism. 
+The end product was fully functional, but our initial prototype was very problematic. Seeing problems such as flimsy connectors and jerky rotation, I pioneered significant changes such as adding arcs for slotting the two housing pieces together as well as adding tolerance to the lower gear mechanism. 
