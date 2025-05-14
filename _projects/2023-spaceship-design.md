@@ -1,8 +1,8 @@
 ---
 layout: project
-title: Spaceship Design
-description: Just a spaceship that I designed
-technologies: [SolidWorks, Machining]
+title: Class Design Project Cord Winder
+description: MAE 2250 Design Project
+technologies: [Fusion 360]
 image: /assets/images/spaceship-design.jpg
 ---
 

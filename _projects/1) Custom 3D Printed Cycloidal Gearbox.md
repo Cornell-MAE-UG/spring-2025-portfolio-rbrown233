@@ -24,14 +24,16 @@ For this design, I mostly stuck to the most basic version of a cycloidal, making
 geometries optimized for running smoothly. The 4 main parts are the input shaft which is
 supported by 3 bearings, the rotor gear which has an epitrochoidal shape, the output shaft which
 interfaces with the input at a small bearing to provide stability, and the case which has 19 rollers
-corresponding to an 18:1 GR. 
+corresponding to an 18:1 GR. Once the design was finalized, I performed ANSYS strucutural analysis on the case, which had a FOS of 5 under the max bending moment conditions.
 
 Manufacturing and Testing:
 
 The gearbox was very easy to manufacture as it was made up of 3D printed parts and MCMASTER parts. Assembly went smoothly and I was able to test important gearbox metrics:
 
 Static efficiency: 66%
-Backlash 34 arcmin
+Backlash: 34 arcmin
+Backdriveable under reasoable amount of force, and no parts failed under 2/3 max torque load.
+
 
 
 
