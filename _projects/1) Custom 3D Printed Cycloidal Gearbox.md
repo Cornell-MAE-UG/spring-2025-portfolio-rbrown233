@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Custom 3D Printed Cycloidal Gearbox
+title: 3D Printed Cycloidal Gearbox
 description: Cornell Mars Rover Arm Actuators Project
 technologies: [Autodesk Inventor, ANSYS]
 image: /assets/images/IMG_6990.jpg
@@ -26,30 +26,21 @@ supported by 3 bearings, the rotor gear which has an epitrochoidal shape, the ou
 interfaces with the input at a small bearing to provide stability, and the case which has 19 rollers
 corresponding to an 18:1 GR. Once the design was finalized, I performed ANSYS strucutural analysis on the case, which had a FOS of 5 under the max bending moment conditions.
 
+![Photo of CAD]({{ "/assets/images/Screenshot 2025-05-13 212023.png" | relative_url }}){: .inline-image-l}
+
 Manufacturing and Testing:
 
-The gearbox was very easy to manufacture as it was made up of 3D printed parts and MCMASTER parts. Assembly went smoothly and I was able to test important gearbox metrics:
+The gearbox was very easy to manufacture as it was made up of 3D printed parts and MCMASTER parts. Assembly went smoothly and I was able to test important gearbox metrics by driving the gearbox with a Maxon Brushless DC motor and Moteus encoder:
 
 Static efficiency: 66%
 Backlash: 34 arcmin
 Backdriveable under reasoable amount of force, and no parts failed under 2/3 max torque load.
 
+![Photo of Gearbox]({{ "/assets/images/cycloidal2.png" | relative_url }}){: .inline-image-l}
 
 
 
 
 
-
-Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
-
-
-This is how I solved the problem:
-
-```python
-    some code = 10;
-    plot();
-```
-
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
 
 

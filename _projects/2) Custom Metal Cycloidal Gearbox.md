@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Custom Metal Cycloidal Gearbox
+title: Metal Cycloidal Gearbox
 description: Cornell Mars Rover Arm Actuator Project
 technologies: [Autodesk Inventor, Machining]
 image: /assets/images/cycloidal1.png
