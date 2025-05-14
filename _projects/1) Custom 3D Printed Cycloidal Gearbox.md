@@ -18,6 +18,7 @@ X = (75*cos(t))-(11.25*cos(t+atan(sin((1-75)*t)/((75/(5.625*75))-cos((1-75)*t)))
 
 Y = (-75*sin(t))+(11.25*sin(t+atan(sin((1-75)*t)/((75/(5.625*75))-cos((1-75)*t)))))+(5.625*sin(75*t))
 
+![Photo of CAD]({{ "/assets/images/Screenshot 2025-05-13 212023.png" | relative_url }}){: .inline-image-l}
 Design:
 
 For this design, I mostly stuck to the most basic version of a cycloidal, making all part
@@ -26,17 +27,19 @@ supported by 3 bearings, the rotor gear which has an epitrochoidal shape, the ou
 interfaces with the input at a small bearing to provide stability, and the case which has 19 rollers
 corresponding to an 18:1 GR. Once the design was finalized, I performed ANSYS strucutural analysis on the case, which had a FOS of 5 under the max bending moment conditions.
 
-![Photo of CAD]({{ "/assets/images/Screenshot 2025-05-13 212023.png" | relative_url }}){: .inline-image-l}
+
+![Photo of Gearbox]({{ "/assets/images/testing.png" | relative_url }}){: .inline-image-l}
 
 Manufacturing and Testing:
 
+
 The gearbox was easy to manufacture as it was made up of 3D printed parts and MCMASTER parts.I was able to test important gearbox metrics by driving the gearbox with a Maxon Brushless DC motor and Moteus encoder:
 
-Static efficiency: 66%
-Backlash: 34 arcmin
+Static efficiency: 66%. 
+Backlash: 34 arcmin. 
 Backdriveable under reasoable amount of force, and no parts failed under 2/3 max torque load.
 
-![Photo of Gearbox]({{ "/assets/images/testing.png" | relative_url }}){: .inline-image-l}
+
 
 
 
