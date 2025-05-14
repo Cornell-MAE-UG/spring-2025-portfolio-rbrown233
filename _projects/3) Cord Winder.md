@@ -9,7 +9,7 @@ image: /assets/images/wrapgod.png
 
 Project Overview:
 
-MAE 2250 is a class in which students learn the principles of design, and it includes a group based design project that spans the whole semester. We decided to create a cord winder, a modular device that allows users to store cords efficiently and ergonomically.
+MAE 2250 is a class in which students learn the principles of design, and it includes a group based design project that spans the whole semester. My group and I decided to create a cord winder, a modular device that allows users to store cords efficiently and ergonomically.
 
 ![Photo of Gearbox]({{ "/assets/images/winder.png" | relative_url }}){: .inline-image-l}
 

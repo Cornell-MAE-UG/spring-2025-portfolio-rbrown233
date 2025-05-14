@@ -27,7 +27,7 @@ For this design, I mostly stuck to the most basic version of a cycloidal, making
 geometries optimized for running smoothly. The 4 main parts are the input shaft which is
 supported by 3 bearings, the rotor gear which has an epitrochoidal shape, the output shaft which
 interfaces with the input at a small bearing to provide stability, and the case which has 19 rollers
-corresponding to an 18:1 GR. Once the design was finalized, I performed ANSYS strucutural analysis on the case, which had a FOS of 5 under the max bending moment conditions.
+corresponding to an 18:1 GR. Once the design was finalized, I performed ANSYS strucutural analysis on the case, checking the max bending moment that would be applied if it was being used on the arm.
 
 
 ![Photo of Gearbox]({{ "/assets/images/testing.png" | relative_url }}){: .inline-image-l}
