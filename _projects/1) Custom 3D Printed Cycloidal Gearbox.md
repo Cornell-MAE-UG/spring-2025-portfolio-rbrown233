@@ -30,13 +30,13 @@ corresponding to an 18:1 GR. Once the design was finalized, I performed ANSYS st
 
 Manufacturing and Testing:
 
-The gearbox was very easy to manufacture as it was made up of 3D printed parts and MCMASTER parts. Assembly went smoothly and I was able to test important gearbox metrics by driving the gearbox with a Maxon Brushless DC motor and Moteus encoder:
+The gearbox was easy to manufacture as it was made up of 3D printed parts and MCMASTER parts.I was able to test important gearbox metrics by driving the gearbox with a Maxon Brushless DC motor and Moteus encoder:
 
 Static efficiency: 66%
 Backlash: 34 arcmin
 Backdriveable under reasoable amount of force, and no parts failed under 2/3 max torque load.
 
-![Photo of Gearbox]({{ "/assets/images/cycloidal2.png" | relative_url }}){: .inline-image-l}
+![Photo of Gearbox]({{ "/assets/images/testing.png" | relative_url }}){: .inline-image-l}
 
 
 

@@ -21,3 +21,5 @@ I succesfully designed a cycloidal gearbox that only requires one CNC part (the 
 Manufacturing and Testing:
 
 I am in the process of manufacturing and testing this gearbox.
+
+![Photo of Gearbox]({{ "/assets/images/metal.png" | relative_url }}){: .inline-image-l}
