@@ -11,10 +11,9 @@ After importing the geometry into Fusion I used it to design the splitter profil
 
 
 
-![Porsche 987]({{ "/assets/images/split.jpg" | relative_url }}){: .inline-image-l}
-
 With the initial design complete, my focus shifted to manufacturing. I conducted research on composite layup techniques, and determined that wet layup was the only possible method due to time and resource constraints. Resin infusion would be ideal for this project, but it unfortunately wasn't viable. I fabricated a plywood prototype splitter and test-fitted to the car to verify mounting points and alignment. I also started practicing laying up carbon fiber, making small canards out of 3 layers of carbon fiber weave. After making all the nessecary preparations, I layed up the large carbon fiber splitter. I struggled a lot with removing bubbles, and even had to implement a hair dryer to blow them out. The splitter was manufactured succesfully and is awaiting installation once the Porsche is back in town. 
 
+![Porsche 987]({{ "/assets/images/split.jpg" | relative_url }}){: .inline-image-l}
 ![Porsche 987]({{ "/assets/images/987.png" | relative_url }}){: .inline-image-l}
 
 I'm also currently working on modeling the 987. I wanted to use a 3d scanner on the whole car, but only ended up doing the front end as it really isn't meant for that large of a shape. Instead, I used fusion forms to model the car. Forms uses t-splines for modeling organic shapes, and is perfect for car bodies. Working on this has been a great learning experience as I haven't worked too much with organic shapes. Project is still in progress, current model shown below.
