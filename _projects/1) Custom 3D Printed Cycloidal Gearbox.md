@@ -37,7 +37,7 @@ Manufacturing and Testing:
 
 The gearbox was easy to manufacture as it was made up of 3D printed parts and MCMASTER parts.I was able to test important gearbox metrics by driving the gearbox with a Maxon Brushless DC motor and Moteus encoder:
 
-Static efficiency: 66%. 
+Static efficiency: 73%. 
 Backlash: 34 arcmin. 
 Backdriveable under reasoable amount of force, and no parts failed under 2/3 max torque load.
 
