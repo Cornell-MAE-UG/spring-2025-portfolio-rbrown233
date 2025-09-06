@@ -10,7 +10,9 @@ This project centered on the design and fabrication of a custom carbon fiber spl
 I imported the geometry into Fusion and used it to design the splitter profile. I researched various other splitters on the market to determine what shape would work best for this case. I determined that a 4 inch rule was ideal, as this is where you get diminishing returns on downforce and the car becomes difficult to drive without grabbing the splitter. I performed basic hand calculations involving bernoulli's and static analysis to determine ~200 lbf on the splitter. In the future I plan to run in-depth analysis using CFD to determine what rake angle is ideal. 
 
 With the initial design complete, the focus shifted to manufacturing preparation. I conducted research on composite layup techniques, resin systems, and fiber orientations to determine the most suitable materials and processes. I fabricated a plywood prototype splitter and test-fitted to the car to verify mounting points and alignment. I also started practicing laying up carbon fiber, making small canards out of 3 layers of carbon fiber weave.
+
 ![Porsche 987]({{ "/assets/images/unnamed (12).png" | relative_url }}){: .inline-image-l}
+
 I then moved on to creating the carbon fiber splitter. Due to time and resource restrictions I went with the wet lay technique. Resin infusion would be ideal for this project, but it unfortunately wasn't viable. I layed the carbon fiber in my garage, and learned a lot about how to make good surface finishes. I struggled a lot with removing bubbles, even having to implement a hair dryer to blow them out. The splitter isn't installed yet due to the porsche not being in town, but once it is the part can be validated on track.
 
 ![Porsche 987]({{ "/assets/images/987.png" | relative_url }}){: .inline-image-l}
