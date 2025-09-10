@@ -1,13 +1,11 @@
 ---
 layout: project
 title: Arm 2025
-description: 6 DOF Robotic Arm developed for URC 2025
-technologies: [Autodesk Inventor, Electrical and mechanical integration]
+description: Building Robotic Arm for URC 2025
+technologies: [Inventor, Electronic and mechanical integration]
 image: /assets/images/arm.jpg
-order: 4
+order: 5
 ---
-
-clsacal
 
 Project Overview: 
 
