@@ -4,6 +4,7 @@ title: Metal Cycloidal Gearbox
 description: Cornell Mars Rover Arm Actuator Project
 technologies: [Autodesk Inventor, Machining]
 image: /assets/images/cycloidal1.png
+order: 2
 ---
 
 Project Overview:

@@ -4,6 +4,7 @@ title: 3D Printed Cycloidal Gearbox
 description: Cornell Mars Rover Arm Actuators Project
 technologies: [Autodesk Inventor, ANSYS]
 image: /assets/images/IMG_6990.jpg
+order: 1
 ---
 
 Project Overview: 
@@ -30,7 +31,7 @@ interfaces with the input at a small bearing to provide stability, and the case 
 corresponding to an 18:1 GR. Once the design was finalized, I performed ANSYS strucutural analysis on the case, checking the max bending moment that would be applied if it was being used on the arm.
 
 
-![Photo of Gearbox]({{ "/assets/images/spin.gif" | relative_url }}){: .inline-image-l}
+![Photo of Gearbox]({{ "/assets/images/spin.gif" width="300" | relative_url }}){: .inline-image-l}
 
 Manufacturing and Testing:
 
