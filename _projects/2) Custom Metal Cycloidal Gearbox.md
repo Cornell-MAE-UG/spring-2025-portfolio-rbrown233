@@ -9,7 +9,7 @@ order: 2
 
 Project Overview:
 
-After succesfully creating a 3D printed cycloidal gearbox, I moved on to designing a gearbox that could be manufactured out of metal. This is important as a metal gearbox will increase efficiency (only 66% in 3d printed version) and will be much more robust. This introduced a problem however, as I have limited access to CNC machining which is integral to most cycloidal gearbox design. Due to this, my new goal was to create a cycloidal with as little CNC parts as possible
+After succesfully creating a 3D printed cycloidal gearbox, I moved on to designing a gearbox that could be manufactured out of metal. This is important as a metal gearbox will increase efficiency (only 73% in 3d printed version) and will be much more robust. This introduced a problem however, as I have limited access to CNC machining which is integral to most cycloidal gearbox design. Due to this, my new goal was to create a cycloidal with as little CNC parts as possible
 
 Preliminary Calculations:
 
