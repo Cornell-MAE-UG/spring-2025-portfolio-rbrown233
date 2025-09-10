@@ -19,6 +19,6 @@ Early in the semester, I improved access to set screws in the small actuator sta
 ![Photo of Gearbox]({{ "/assets/images/pot1.png" | relative_url }}){: .inline-image-l}
 ![Photo of Gearbox]({{ "/assets/images/pot2.png" | relative_url }}){: .inline-image-l}
 
-As the new arm was brought online, we faced a lot of problems with actuator slipping, precessing etc. To solve these problems, I applied the technically advanced procedure of "slapping on some loctice". I also assisted in soldering new XT30 connections after connectors broke during repairs. When the elbow rotate motor failed, I helped with diagnostic testing to separate gearbox issues from control tuning.
+As the new arm was brought online, I solved some problems with actuators slipping and processing by loctiting loose screws. I also helped with arm testing, through which we both verified certain arm functionalities and identified some of the problems mentioned. I also assisted in soldering new XT30 connections after connectors broke during repairs. When the elbow rotate motor failed, I helped with diagnostic testing to separate gearbox issues from control tuning.
 
-Custom potentiometer mounts and arm testing shown
+
