@@ -21,7 +21,7 @@ Y = (-75*sin(t))+(11.25*sin(t+atan(sin((1-75)*t)/((75/(5.625*75))-cos((1-75)*t))
 
 ![Photo of CAD]({{ "/assets/images/Screenshot 2025-05-13 212023.png" | relative_url }}){: .inline-image-l}
 ![Photo of CAD]({{ "/assets/images/ansys.png" | relative_url }}){: .inline-image-l}
-
+![Photo of Gearbox]({{ "/assets/images/spin.gif" width="150" | relative_url }}){: .inline-image-r}
 Design:
 
 For this design, I mostly stuck to the most basic version of a cycloidal, making all part
@@ -31,7 +31,7 @@ interfaces with the input at a small bearing to provide stability, and the case 
 corresponding to an 18:1 GR. Once the design was finalized, I performed ANSYS strucutural analysis on the case, checking the max bending moment that would be applied if it was being used on the arm.
 
 
-![Photo of Gearbox]({{ "/assets/images/spin.gif" width="300" | relative_url }}){: .inline-image-l}
+
 
 Manufacturing and Testing:
 

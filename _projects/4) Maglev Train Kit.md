@@ -21,7 +21,7 @@ With the initial design complete, my focus shifted to manufacturing. I conducted
 
 
 ![Porsche 987]({{ "/assets/images/987.png" | relative_url }}){: .inline-image-l}
-![Porsche 987]({{ "/assets/images/bruh2.jpg" width="300"| relative_url }}){: .inline-image-r}
+![Porsche 987]({{ "/assets/images/bruh2.jpg" width="150"| relative_url }}){: .inline-image-r}
 
 I'm also currently working on modeling the 987. I wanted to use a 3d scanner on the whole car, but only ended up doing the front end as it really isn't meant for that large of a shape. Instead, I used fusion forms to model the car. Forms uses t-splines for modeling organic shapes, and is perfect for car bodies. Working on this has been a great learning experience as I haven't worked too much with organic shapes. Project is still in progress, current model shown below.
 
