@@ -1,13 +1,17 @@
 ---
 layout: project
 title: Arm 2025
-description: Designing parts, troubleshooting failures, testing hardware
+description: 6 DOF Robotic Arm developed for URC 2025
 technologies: [Autodesk Inventor, Electrical and mechanical integration]
 image: /assets/images/arm.jpg
 order: 4
 ---
+
+Project Overview: 
+
 Aside for the gearbox project, I also worked on arm assembly, repair, and actuator integration. Early in the semester, I improved access to set screws in the small actuator stacks by experimenting with drilling and ultimately cutting access slots with the band saw. I also modified the large potentiometer design to fit the small actuators, adjusting dimensions and verifying compatibility with existing gearboxes and screws. During the spring semester I assembled actuator stackes, dissasembled old parts and salvaged hardware that could be reused.
 
+![Photo of CAD]({{ "/assets/images/Screenshot 2025-05-13 212023.png" | relative_url }}){: .inline-image-l}
 ![Photo of Gearbox]({{ "/assets/images/pot1.png" | relative_url }}){: .inline-image-l}
 ![Photo of Gearbox]({{ "/assets/images/pot2.png" | relative_url }}){: .inline-image-l}
 
