@@ -10,8 +10,7 @@ This project centered on the design and fabrication of a custom carbon fiber spl
 ![Porsche 987]({{ "/assets/images/pluh.png" | relative_url }}){: .inline-image-r}
 
 
-After importing the geometry into Fusion I used it to design the splitter profile. This design was based off of various other splitters on the market, and conformed to the round profile of the Porsche's front bumper. I determined that a 4 inch rule was ideal, as this is where you get diminishing returns on downforce and the car becomes difficult to drive without grabbing the splitter. I performed basic hand calculations involving bernoulli's and static analysis to determine ~200 lbf on the splitter. In the future I plan to run in-depth analysis using CFD to determine what rake angle is ideal.
-
+After importing the geometry into Fusion I used it to design the splitter profile. This design was based off of various other splitters on the market, and conformed to the round profile of the Porsche's front bumper. I determined that a 4 inch rule was ideal, as this is where you get diminishing returns on downforce and the car becomes difficult to drive without grabbing the splitter. I performed basic hand calculations involving bernoulli's and static analysis to determine ~200 lbf on the splitter. 
 ![Porsche 987]({{ "/assets/images/split.jpg" | relative_url }}){: .inline-image-r}
 
 
@@ -21,7 +20,7 @@ With the initial design complete, my focus shifted to manufacturing. I conducted
 
 
 ![Porsche 987]({{ "/assets/images/987.png" | relative_url }}){: .inline-image-l}
-![Porsche 987]({{ "/assets/images/bruh.jpg" | relative_url }}){: .inline-image-r}
+![Porsche 987]({{ "/assets/images/bruh2.jpg" | relative_url }}){: .inline-image-r}
 
 I'm also currently working on modeling the 987. I wanted to use a 3d scanner on the whole car, but only ended up doing the front end as it really isn't meant for that large of a shape. Instead, I used fusion forms to model the car. Forms uses t-splines for modeling organic shapes, and is perfect for car bodies. Working on this has been a great learning experience as I haven't worked too much with organic shapes. Project is still in progress, current model shown below.
 
