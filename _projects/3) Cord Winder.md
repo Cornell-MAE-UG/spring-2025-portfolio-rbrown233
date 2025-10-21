@@ -16,4 +16,6 @@ Here are some photos of a differential wrist mechanism I'm designing. It use bel
 ![Photo of diff]({{ "/assets/images/diff3.png" | relative_url }}){: .inline-image-l}
 ![Photo of diff]({{ "/assets/images/diff4.png" | relative_url }}){: .inline-image-l}
 
+.
+
 
