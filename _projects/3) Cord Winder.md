@@ -1,16 +1,19 @@
 ---
 layout: project
-title: Class Design Project Cord Winder
-description: MAE 2250 Design Project
-technologies: [Fusion 360]
-image: /assets/images/wrapgod.png
+title: Current Differential Wrist Project
+description: Differential Wrist for Robotic Arm
+technologies: [Inventor]
+image: /assets/images/diff4.png
 order: 5
 ---
 
 Project Overview:
 
-MAE 2250 is a class in which students learn the principles of design, and it includes a group based design project that spans the whole semester. My group and I decided to create a cord winder, a modular device that allows users to store cords efficiently and ergonomically.
+Here are some photos of a differential wrist mechanism I'm designing. It use belt drive and bevel gears to achieve 2 DOF in a compact form factor.
 
-![Photo of Gearbox]({{ "/assets/images/winder.png" | relative_url }}){: .inline-image-l}
+![Photo of diff]({{ "/assets/images/diff1.png" | relative_url }}){: .inline-image-l}
+![Photo of diff]({{ "/assets/images/diff2.png" | relative_url }}){: .inline-image-l}
+![Photo of diff]({{ "/assets/images/diff3.png" | relative_url }}){: .inline-image-l}
+![Photo of diff]({{ "/assets/images/diff4.png" | relative_url }}){: .inline-image-l}
 
-The end product was fully functional, but our initial prototype was very problematic. Seeing problems such as flimsy connectors and jerky rotation, I pioneered significant changes such as adding arcs for slotting the two housing pieces together as well as adding tolerance to the lower gear mechanism. 
+
