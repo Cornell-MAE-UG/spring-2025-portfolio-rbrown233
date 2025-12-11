@@ -1,18 +1,10 @@
 ---
 layout: project
-title: Current Differential Wrist Project
-description: Differential Wrist for Robotic Arm
-technologies: [Inventor]
-image: /assets/images/diff1.png
+title: Materials final project
+description: Materials final project
+technologies: [Ansys Mechanical, Fusion]
+image: /assets/images/torque.png
 order: 5
 ---
-![Photo of diff]({{ "/assets/images/diff3.png" | relative_url }}){: .inline-image-r}
-Project Overview:
-
-Here are some photos of a differential wrist mechanism I'm designing. It use belt drive and bevel gears to achieve 2 DOF in a compact form factor.
-
-![Photo of diff]({{ "/assets/images/diff2.png" | relative_url }}){: .inline-image-l}
-
-
-
+[Download my project]({{ "/assets/finalhwmaterials.pdf" | relative_url }}) in PDF format.
 
