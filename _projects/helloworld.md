@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Systems Final Project"
+title: Systems Final Project
 description: Quadcopter Dissection
 technologies: [Matlab]
 image: /assets/images/drone.png
