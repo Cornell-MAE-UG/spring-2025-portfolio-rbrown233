@@ -4,7 +4,7 @@ title: 3D Printed Cycloidal Gearbox
 description: Cornell Mars Rover Arm Actuators Project
 technologies: [Autodesk Inventor, ANSYS]
 image: /assets/images/IMG_6990.jpg
-order: 1
+order: 2
 ---
 
 Project Overview: 

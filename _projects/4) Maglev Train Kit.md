@@ -4,7 +4,7 @@ title: Carbon Fiber Car Parts
 description: Designing and manufacturing carbon fiber splitter and canards to create front end downforce
 technologies: [Fusion 360 Forms, 3D Scanning, Composites Manufacturing]
 image: /assets/images/unnamed (12).jpg
-order: 3
+order: 4
 ---
 
 Project Overview: 
