@@ -3,7 +3,7 @@ layout: project
 title: Differential Wrist Mechanism
 description: Differential Wrist Mechanism
 technologies: [CAD, Machining]
-image: /assets/images/diff.jpg
+image: /assets/images/diff.jpeg
 order: 1
 ---
 
